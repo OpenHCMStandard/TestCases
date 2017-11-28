@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HullCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="2.0" xsi:schemaLocation="">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Stiffeners>
+            <Stiffener height="0.2" type="FB" orientation="right" thickness="0.01" maxDiminution="0.0" offset="0.0" name="CASE4-P1/S1P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S1P">
+                <TraceLine>
+                    <Vertex x="1.0" y="10.0" z="12.0"/>
+                    <Vertex x="1.0" y="10.0" z="10.6"/>
+                    <Vertex x="1.0" y="10.0" z="9.2"/>
+                    <Vertex x="1.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="1.0" y="9.9995" z="9.097"/>
+                    <Vertex x="1.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="1.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="1.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="1.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="1.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="1.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="1.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="1.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="1.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="1.0" y="8.434" z="3.8274"/>
+                    <Vertex x="1.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="1.0" y="7.7291" z="2.855"/>
+                    <Vertex x="1.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="1.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="1.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="1.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="1.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="1.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="1.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="1.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="1.0" y="1.9596" z="0.0"/>
+                    <Vertex x="1.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+            </Stiffener>
+            <Stiffener height="0.2" type="HP" orientation="right" thickness="0.01" maxDiminution="0.0" name="CASE4-P1/S3P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S3P">
+                <TraceLine>
+                    <Vertex x="2.0" y="10.0" z="12.0"/>
+                    <Vertex x="2.0" y="10.0" z="10.6"/>
+                    <Vertex x="2.0" y="10.0" z="9.2"/>
+                    <Vertex x="2.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="2.0" y="9.9995" z="9.097"/>
+                    <Vertex x="2.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="2.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="2.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="2.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="2.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="2.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="2.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="2.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="2.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="2.0" y="8.434" z="3.8274"/>
+                    <Vertex x="2.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="2.0" y="7.7291" z="2.855"/>
+                    <Vertex x="2.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="2.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="2.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="2.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="2.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="2.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="2.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="2.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="2.0" y="1.9596" z="0.0"/>
+                    <Vertex x="2.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+            </Stiffener>
+            <Stiffener height="0.2" type="L" orientation="right" thickness="0.01" maxDiminution="0.0" name="CASE4-P1/S5P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S5P">
+                <TraceLine>
+                    <Vertex x="3.0" y="10.0" z="12.0"/>
+                    <Vertex x="3.0" y="10.0" z="10.6"/>
+                    <Vertex x="3.0" y="10.0" z="9.2"/>
+                    <Vertex x="3.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="3.0" y="9.9995" z="9.097"/>
+                    <Vertex x="3.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="3.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="3.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="3.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="3.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="3.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="3.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="3.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="3.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="3.0" y="8.434" z="3.8274"/>
+                    <Vertex x="3.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="3.0" y="7.7291" z="2.855"/>
+                    <Vertex x="3.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="3.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="3.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="3.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="3.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="3.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="3.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="3.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="3.0" y="1.9596" z="0.0"/>
+                    <Vertex x="3.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+                <Flange breadth="0.1" position="upper" thickness="0.012"/>
+            </Stiffener>
+            <Stiffener height="0.2" type="T" orientation="right" thickness="0.01" maxDiminution="0.0" name="CASE4-P1/S7P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S7P">
+                <TraceLine>
+                    <Vertex x="4.0" y="10.0" z="12.0"/>
+                    <Vertex x="4.0" y="10.0" z="10.6"/>
+                    <Vertex x="4.0" y="10.0" z="9.2"/>
+                    <Vertex x="4.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="4.0" y="9.9995" z="9.097"/>
+                    <Vertex x="4.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="4.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="4.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="4.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="4.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="4.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="4.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="4.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="4.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="4.0" y="8.434" z="3.8274"/>
+                    <Vertex x="4.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="4.0" y="7.7291" z="2.855"/>
+                    <Vertex x="4.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="4.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="4.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="4.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="4.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="4.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="4.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="4.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="4.0" y="1.9596" z="0.0"/>
+                    <Vertex x="4.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+                <Flange breadth="0.1" position="upper" thickness="0.012"/>
+            </Stiffener>
+            <Stiffener height="0.19" type="I" orientation="right" thickness="0.0065" maxDiminution="0.0" name="CASE4-P1/S9P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S9P">
+                <TraceLine>
+                    <Vertex x="5.0" y="10.0" z="12.0"/>
+                    <Vertex x="5.0" y="10.0" z="10.6"/>
+                    <Vertex x="5.0" y="10.0" z="9.2"/>
+                    <Vertex x="5.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="5.0" y="9.9995" z="9.097"/>
+                    <Vertex x="5.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="5.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="5.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="5.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="5.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="5.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="5.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="5.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="5.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="5.0" y="8.434" z="3.8274"/>
+                    <Vertex x="5.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="5.0" y="7.7291" z="2.855"/>
+                    <Vertex x="5.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="5.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="5.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="5.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="5.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="5.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="5.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="5.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="5.0" y="1.9596" z="0.0"/>
+                    <Vertex x="5.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+                <Flange breadth="0.2" position="upper" thickness="0.01"/>
+            </Stiffener>
+            <Stiffener height="0.2" type="RHS" orientation="right" thickness="0.0" maxDiminution="0.0" name="CASE4-P1/S13P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S13P">
+                <TraceLine>
+                    <Vertex x="8.0" y="10.0" z="12.0"/>
+                    <Vertex x="8.0" y="10.0" z="10.6"/>
+                    <Vertex x="8.0" y="10.0" z="9.2"/>
+                    <Vertex x="8.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="8.0" y="9.9995" z="9.097"/>
+                    <Vertex x="8.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="8.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="8.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="8.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="8.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="8.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="8.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="8.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="8.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="8.0" y="8.434" z="3.8274"/>
+                    <Vertex x="8.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="8.0" y="7.7291" z="2.855"/>
+                    <Vertex x="8.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="8.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="8.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="8.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="8.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="8.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="8.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="8.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="8.0" y="1.9596" z="0.0"/>
+                    <Vertex x="8.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+                <Flange breadth="0.1" position="upper"/>
+            </Stiffener>
+            <Stiffener height="0.2" type="O" orientation="right" thickness="0.0" maxDiminution="0.0" radius="0.1" name="CASE4-P1/S15P" materialId="Default" side="P" memberId="CASE4-P1" id="CASE4-P1/S15P">
+                <TraceLine>
+                    <Vertex x="6.0" y="10.0" z="12.0"/>
+                    <Vertex x="6.0" y="10.0" z="10.6"/>
+                    <Vertex x="6.0" y="10.0" z="9.2"/>
+                    <Vertex x="6.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="6.0" y="9.9995" z="9.097"/>
+                    <Vertex x="6.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="6.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="6.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="6.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="6.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="6.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="6.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="6.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="6.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="6.0" y="8.434" z="3.8274"/>
+                    <Vertex x="6.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="6.0" y="7.7291" z="2.855"/>
+                    <Vertex x="6.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="6.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="6.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="6.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="6.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="6.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="6.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="6.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="6.0" y="1.9596" z="0.0"/>
+                    <Vertex x="6.0" y="0.0" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="-1.0" k="0.0"/>
+                    <Direction i="0.0" j="-0.9928" k="0.1194"/>
+                    <Direction i="0.0" j="-0.9715" k="0.2371"/>
+                    <Direction i="0.0" j="-0.9704" k="0.2414"/>
+                    <Direction i="0.0" j="-0.9694" k="0.2456"/>
+                    <Direction i="0.0" j="-0.966" k="0.2584"/>
+                    <Direction i="0.0" j="-0.9625" k="0.2711"/>
+                    <Direction i="0.0" j="-0.9531" k="0.3028"/>
+                    <Direction i="0.0" j="-0.9425" k="0.3341"/>
+                    <Direction i="0.0" j="-0.9184" k="0.3956"/>
+                    <Direction i="0.0" j="-0.8903" k="0.4553"/>
+                    <Direction i="0.0" j="-0.8314" k="0.5556"/>
+                    <Direction i="0.0" j="-0.8263" k="0.5633"/>
+                    <Direction i="0.0" j="-0.7553" k="0.6554"/>
+                    <Direction i="0.0" j="-0.7492" k="0.6624"/>
+                    <Direction i="0.0" j="-0.6071" k="0.7946"/>
+                    <Direction i="0.0" j="-0.5948" k="0.8038"/>
+                    <Direction i="0.0" j="-0.5824" k="0.8129"/>
+                    <Direction i="0.0" j="-0.5698" k="0.8218"/>
+                    <Direction i="0.0" j="-0.5571" k="0.8304"/>
+                    <Direction i="0.0" j="-0.3862" k="0.9224"/>
+                    <Direction i="0.0" j="-0.372" k="0.9282"/>
+                    <Direction i="0.0" j="-0.3577" k="0.9338"/>
+                    <Direction i="0.0" j="-0.3433" k="0.9392"/>
+                    <Direction i="0.0" j="-0.3288" k="0.9444"/>
+                    <Direction i="0.0" j="-0.1667" k="0.986"/>
+                    <Direction i="0.0" j="0.0" k="1.0"/>
+                </Orientations>
+            </Stiffener>
+        </Stiffeners>
+        <StructureMembers>
+            <Member type="DECK" name="CASE4-P1" id="CASE4-P1"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840.0" tensileStrength="360.0" yieldStrength="220.0" elasticModulus="2.06E11"/>
+        </Materials>
+    </HullStructure>
+    <Extensions>
+        <HullSurveyExtension/>
+    </Extensions>
+    <Documents/>
+</HullCondition>

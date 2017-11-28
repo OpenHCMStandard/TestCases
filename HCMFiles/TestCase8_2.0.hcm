@@ -1,0 +1,271 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HullCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="2.0" xsi:schemaLocation="">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate strake="" number="" thickness="0.01" maxDiminution="0.0" name="CASE8-P1P-1P" materialId="Default" side="P" memberId="CASE8-P1P" id="CASE8-P1P-1P">
+                <OuterContour>
+                    <Vertex x="0.0" y="5.7234" z="1.0002"/>
+                    <Vertex x="0.0" y="6.0195" z="1.2151"/>
+                    <Vertex x="0.0" y="6.3075" z="1.4405"/>
+                    <Vertex x="0.0" y="6.5872" z="1.6764"/>
+                    <Vertex x="0.0" y="6.8581" z="1.9222"/>
+                    <Vertex x="0.0" y="7.1196" z="2.178"/>
+                    <Vertex x="0.0" y="7.3717" z="2.443"/>
+                    <Vertex x="0.0" y="7.6139" z="2.7172"/>
+                    <Vertex x="0.0" y="7.846" z="3.0"/>
+                    <Vertex x="0.625" y="7.846" z="3.0"/>
+                    <Vertex x="1.25" y="7.846" z="3.0"/>
+                    <Vertex x="1.875" y="7.846" z="3.0"/>
+                    <Vertex x="2.5" y="7.846" z="3.0"/>
+                    <Vertex x="3.125" y="7.846" z="3.0"/>
+                    <Vertex x="3.75" y="7.846" z="3.0"/>
+                    <Vertex x="4.375" y="7.846" z="3.0"/>
+                    <Vertex x="5.0" y="7.846" z="3.0"/>
+                    <Vertex x="5.0" y="7.6139" z="2.7172"/>
+                    <Vertex x="5.0" y="7.3717" z="2.443"/>
+                    <Vertex x="5.0" y="7.1196" z="2.178"/>
+                    <Vertex x="5.0" y="6.8581" z="1.9222"/>
+                    <Vertex x="5.0" y="6.5872" z="1.6764"/>
+                    <Vertex x="5.0" y="6.3075" z="1.4405"/>
+                    <Vertex x="5.0" y="6.0195" z="1.2151"/>
+                    <Vertex x="5.0" y="5.7235" z="1.0"/>
+                    <Vertex x="4.375" y="5.7235" z="1.0"/>
+                    <Vertex x="3.75" y="5.7235" z="1.0"/>
+                    <Vertex x="3.125" y="5.7235" z="1.0"/>
+                    <Vertex x="2.5" y="5.7235" z="1.0"/>
+                    <Vertex x="1.875" y="5.7235" z="1.0"/>
+                    <Vertex x="1.25" y="5.7235" z="1.0"/>
+                    <Vertex x="0.625" y="5.7235" z="1.0"/>
+                </OuterContour>
+                <Mesh>
+                    <Vertices>
+                        <Vertex id="CASE8-P1P-1P0" x="0.0" y="5.7234" z="1.0002"/>
+                        <Vertex id="CASE8-P1P-1P1" x="0.0" y="6.0195" z="1.2151"/>
+                        <Vertex id="CASE8-P1P-1P2" x="0.625" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P3" x="0.625" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P4" x="0.0" y="6.3075" z="1.4405"/>
+                        <Vertex id="CASE8-P1P-1P5" x="0.625" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P6" x="0.0" y="6.5872" z="1.6764"/>
+                        <Vertex id="CASE8-P1P-1P7" x="0.625" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P8" x="0.0" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P9" x="0.625" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P10" x="0.0" y="7.1196" z="2.178"/>
+                        <Vertex id="CASE8-P1P-1P11" x="0.625" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P12" x="0.0" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P13" x="0.625" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P14" x="0.0" y="7.6139" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P15" x="0.625" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P16" x="0.0" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P17" x="0.625" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P18" x="1.25" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P19" x="1.25" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P20" x="1.25" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P21" x="1.25" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P22" x="1.25" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P23" x="1.25" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P24" x="1.25" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P25" x="1.25" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P26" x="1.25" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P27" x="1.875" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P28" x="1.875" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P29" x="1.875" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P30" x="1.875" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P31" x="1.875" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P32" x="1.875" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P33" x="1.875" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P34" x="1.875" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P35" x="1.875" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P36" x="2.5" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P37" x="2.5" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P38" x="2.5" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P39" x="2.5" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P40" x="2.5" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P41" x="2.5" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P42" x="2.5" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P43" x="2.5" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P44" x="2.5" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P45" x="3.125" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P46" x="3.125" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P47" x="3.125" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P48" x="3.125" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P49" x="3.125" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P50" x="3.125" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P51" x="3.125" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P52" x="3.125" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P53" x="3.125" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P54" x="3.75" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P55" x="3.75" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P56" x="3.75" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P57" x="3.75" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P58" x="3.75" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P59" x="3.75" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P60" x="3.75" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P61" x="3.75" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P62" x="3.75" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P63" x="4.375" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P64" x="4.375" y="6.0196" z="1.2149"/>
+                        <Vertex id="CASE8-P1P-1P65" x="4.375" y="6.3076" z="1.4404"/>
+                        <Vertex id="CASE8-P1P-1P66" x="4.375" y="6.5873" z="1.6763"/>
+                        <Vertex id="CASE8-P1P-1P67" x="4.375" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P68" x="4.375" y="7.1197" z="2.1779"/>
+                        <Vertex id="CASE8-P1P-1P69" x="4.375" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P70" x="4.375" y="7.614" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P71" x="4.375" y="7.846" z="3.0"/>
+                        <Vertex id="CASE8-P1P-1P72" x="5.0" y="5.7235" z="1.0"/>
+                        <Vertex id="CASE8-P1P-1P73" x="5.0" y="6.0195" z="1.2151"/>
+                        <Vertex id="CASE8-P1P-1P74" x="5.0" y="6.3075" z="1.4405"/>
+                        <Vertex id="CASE8-P1P-1P75" x="5.0" y="6.5872" z="1.6764"/>
+                        <Vertex id="CASE8-P1P-1P76" x="5.0" y="6.8581" z="1.9222"/>
+                        <Vertex id="CASE8-P1P-1P77" x="5.0" y="7.1196" z="2.178"/>
+                        <Vertex id="CASE8-P1P-1P78" x="5.0" y="7.3717" z="2.443"/>
+                        <Vertex id="CASE8-P1P-1P79" x="5.0" y="7.6139" z="2.7172"/>
+                        <Vertex id="CASE8-P1P-1P80" x="5.0" y="7.846" z="3.0"/>
+                    </Vertices>
+                    <Triangles>
+                        <Triangle vertex1="CASE8-P1P-1P0" vertex2="CASE8-P1P-1P1" vertex3="CASE8-P1P-1P2"/>
+                        <Triangle vertex1="CASE8-P1P-1P2" vertex2="CASE8-P1P-1P1" vertex3="CASE8-P1P-1P3"/>
+                        <Triangle vertex1="CASE8-P1P-1P1" vertex2="CASE8-P1P-1P4" vertex3="CASE8-P1P-1P3"/>
+                        <Triangle vertex1="CASE8-P1P-1P3" vertex2="CASE8-P1P-1P4" vertex3="CASE8-P1P-1P5"/>
+                        <Triangle vertex1="CASE8-P1P-1P4" vertex2="CASE8-P1P-1P6" vertex3="CASE8-P1P-1P5"/>
+                        <Triangle vertex1="CASE8-P1P-1P5" vertex2="CASE8-P1P-1P6" vertex3="CASE8-P1P-1P7"/>
+                        <Triangle vertex1="CASE8-P1P-1P6" vertex2="CASE8-P1P-1P8" vertex3="CASE8-P1P-1P7"/>
+                        <Triangle vertex1="CASE8-P1P-1P7" vertex2="CASE8-P1P-1P8" vertex3="CASE8-P1P-1P9"/>
+                        <Triangle vertex1="CASE8-P1P-1P8" vertex2="CASE8-P1P-1P10" vertex3="CASE8-P1P-1P9"/>
+                        <Triangle vertex1="CASE8-P1P-1P9" vertex2="CASE8-P1P-1P10" vertex3="CASE8-P1P-1P11"/>
+                        <Triangle vertex1="CASE8-P1P-1P10" vertex2="CASE8-P1P-1P12" vertex3="CASE8-P1P-1P11"/>
+                        <Triangle vertex1="CASE8-P1P-1P11" vertex2="CASE8-P1P-1P12" vertex3="CASE8-P1P-1P13"/>
+                        <Triangle vertex1="CASE8-P1P-1P12" vertex2="CASE8-P1P-1P14" vertex3="CASE8-P1P-1P13"/>
+                        <Triangle vertex1="CASE8-P1P-1P13" vertex2="CASE8-P1P-1P14" vertex3="CASE8-P1P-1P15"/>
+                        <Triangle vertex1="CASE8-P1P-1P14" vertex2="CASE8-P1P-1P16" vertex3="CASE8-P1P-1P15"/>
+                        <Triangle vertex1="CASE8-P1P-1P15" vertex2="CASE8-P1P-1P16" vertex3="CASE8-P1P-1P17"/>
+                        <Triangle vertex1="CASE8-P1P-1P2" vertex2="CASE8-P1P-1P3" vertex3="CASE8-P1P-1P18"/>
+                        <Triangle vertex1="CASE8-P1P-1P18" vertex2="CASE8-P1P-1P3" vertex3="CASE8-P1P-1P19"/>
+                        <Triangle vertex1="CASE8-P1P-1P3" vertex2="CASE8-P1P-1P5" vertex3="CASE8-P1P-1P19"/>
+                        <Triangle vertex1="CASE8-P1P-1P19" vertex2="CASE8-P1P-1P5" vertex3="CASE8-P1P-1P20"/>
+                        <Triangle vertex1="CASE8-P1P-1P5" vertex2="CASE8-P1P-1P7" vertex3="CASE8-P1P-1P20"/>
+                        <Triangle vertex1="CASE8-P1P-1P20" vertex2="CASE8-P1P-1P7" vertex3="CASE8-P1P-1P21"/>
+                        <Triangle vertex1="CASE8-P1P-1P7" vertex2="CASE8-P1P-1P9" vertex3="CASE8-P1P-1P21"/>
+                        <Triangle vertex1="CASE8-P1P-1P21" vertex2="CASE8-P1P-1P9" vertex3="CASE8-P1P-1P22"/>
+                        <Triangle vertex1="CASE8-P1P-1P9" vertex2="CASE8-P1P-1P11" vertex3="CASE8-P1P-1P22"/>
+                        <Triangle vertex1="CASE8-P1P-1P22" vertex2="CASE8-P1P-1P11" vertex3="CASE8-P1P-1P23"/>
+                        <Triangle vertex1="CASE8-P1P-1P11" vertex2="CASE8-P1P-1P13" vertex3="CASE8-P1P-1P23"/>
+                        <Triangle vertex1="CASE8-P1P-1P23" vertex2="CASE8-P1P-1P13" vertex3="CASE8-P1P-1P24"/>
+                        <Triangle vertex1="CASE8-P1P-1P13" vertex2="CASE8-P1P-1P15" vertex3="CASE8-P1P-1P24"/>
+                        <Triangle vertex1="CASE8-P1P-1P24" vertex2="CASE8-P1P-1P15" vertex3="CASE8-P1P-1P25"/>
+                        <Triangle vertex1="CASE8-P1P-1P15" vertex2="CASE8-P1P-1P17" vertex3="CASE8-P1P-1P25"/>
+                        <Triangle vertex1="CASE8-P1P-1P25" vertex2="CASE8-P1P-1P17" vertex3="CASE8-P1P-1P26"/>
+                        <Triangle vertex1="CASE8-P1P-1P18" vertex2="CASE8-P1P-1P19" vertex3="CASE8-P1P-1P27"/>
+                        <Triangle vertex1="CASE8-P1P-1P27" vertex2="CASE8-P1P-1P19" vertex3="CASE8-P1P-1P28"/>
+                        <Triangle vertex1="CASE8-P1P-1P19" vertex2="CASE8-P1P-1P20" vertex3="CASE8-P1P-1P28"/>
+                        <Triangle vertex1="CASE8-P1P-1P28" vertex2="CASE8-P1P-1P20" vertex3="CASE8-P1P-1P29"/>
+                        <Triangle vertex1="CASE8-P1P-1P20" vertex2="CASE8-P1P-1P21" vertex3="CASE8-P1P-1P29"/>
+                        <Triangle vertex1="CASE8-P1P-1P29" vertex2="CASE8-P1P-1P21" vertex3="CASE8-P1P-1P30"/>
+                        <Triangle vertex1="CASE8-P1P-1P21" vertex2="CASE8-P1P-1P22" vertex3="CASE8-P1P-1P30"/>
+                        <Triangle vertex1="CASE8-P1P-1P30" vertex2="CASE8-P1P-1P22" vertex3="CASE8-P1P-1P31"/>
+                        <Triangle vertex1="CASE8-P1P-1P22" vertex2="CASE8-P1P-1P23" vertex3="CASE8-P1P-1P31"/>
+                        <Triangle vertex1="CASE8-P1P-1P31" vertex2="CASE8-P1P-1P23" vertex3="CASE8-P1P-1P32"/>
+                        <Triangle vertex1="CASE8-P1P-1P23" vertex2="CASE8-P1P-1P24" vertex3="CASE8-P1P-1P32"/>
+                        <Triangle vertex1="CASE8-P1P-1P32" vertex2="CASE8-P1P-1P24" vertex3="CASE8-P1P-1P33"/>
+                        <Triangle vertex1="CASE8-P1P-1P24" vertex2="CASE8-P1P-1P25" vertex3="CASE8-P1P-1P33"/>
+                        <Triangle vertex1="CASE8-P1P-1P33" vertex2="CASE8-P1P-1P25" vertex3="CASE8-P1P-1P34"/>
+                        <Triangle vertex1="CASE8-P1P-1P25" vertex2="CASE8-P1P-1P26" vertex3="CASE8-P1P-1P34"/>
+                        <Triangle vertex1="CASE8-P1P-1P34" vertex2="CASE8-P1P-1P26" vertex3="CASE8-P1P-1P35"/>
+                        <Triangle vertex1="CASE8-P1P-1P27" vertex2="CASE8-P1P-1P28" vertex3="CASE8-P1P-1P36"/>
+                        <Triangle vertex1="CASE8-P1P-1P36" vertex2="CASE8-P1P-1P28" vertex3="CASE8-P1P-1P37"/>
+                        <Triangle vertex1="CASE8-P1P-1P28" vertex2="CASE8-P1P-1P29" vertex3="CASE8-P1P-1P37"/>
+                        <Triangle vertex1="CASE8-P1P-1P37" vertex2="CASE8-P1P-1P29" vertex3="CASE8-P1P-1P38"/>
+                        <Triangle vertex1="CASE8-P1P-1P29" vertex2="CASE8-P1P-1P30" vertex3="CASE8-P1P-1P38"/>
+                        <Triangle vertex1="CASE8-P1P-1P38" vertex2="CASE8-P1P-1P30" vertex3="CASE8-P1P-1P39"/>
+                        <Triangle vertex1="CASE8-P1P-1P30" vertex2="CASE8-P1P-1P31" vertex3="CASE8-P1P-1P39"/>
+                        <Triangle vertex1="CASE8-P1P-1P39" vertex2="CASE8-P1P-1P31" vertex3="CASE8-P1P-1P40"/>
+                        <Triangle vertex1="CASE8-P1P-1P31" vertex2="CASE8-P1P-1P32" vertex3="CASE8-P1P-1P40"/>
+                        <Triangle vertex1="CASE8-P1P-1P40" vertex2="CASE8-P1P-1P32" vertex3="CASE8-P1P-1P41"/>
+                        <Triangle vertex1="CASE8-P1P-1P32" vertex2="CASE8-P1P-1P33" vertex3="CASE8-P1P-1P41"/>
+                        <Triangle vertex1="CASE8-P1P-1P41" vertex2="CASE8-P1P-1P33" vertex3="CASE8-P1P-1P42"/>
+                        <Triangle vertex1="CASE8-P1P-1P33" vertex2="CASE8-P1P-1P34" vertex3="CASE8-P1P-1P42"/>
+                        <Triangle vertex1="CASE8-P1P-1P42" vertex2="CASE8-P1P-1P34" vertex3="CASE8-P1P-1P43"/>
+                        <Triangle vertex1="CASE8-P1P-1P34" vertex2="CASE8-P1P-1P35" vertex3="CASE8-P1P-1P43"/>
+                        <Triangle vertex1="CASE8-P1P-1P43" vertex2="CASE8-P1P-1P35" vertex3="CASE8-P1P-1P44"/>
+                        <Triangle vertex1="CASE8-P1P-1P36" vertex2="CASE8-P1P-1P37" vertex3="CASE8-P1P-1P45"/>
+                        <Triangle vertex1="CASE8-P1P-1P45" vertex2="CASE8-P1P-1P37" vertex3="CASE8-P1P-1P46"/>
+                        <Triangle vertex1="CASE8-P1P-1P37" vertex2="CASE8-P1P-1P38" vertex3="CASE8-P1P-1P46"/>
+                        <Triangle vertex1="CASE8-P1P-1P46" vertex2="CASE8-P1P-1P38" vertex3="CASE8-P1P-1P47"/>
+                        <Triangle vertex1="CASE8-P1P-1P38" vertex2="CASE8-P1P-1P39" vertex3="CASE8-P1P-1P47"/>
+                        <Triangle vertex1="CASE8-P1P-1P47" vertex2="CASE8-P1P-1P39" vertex3="CASE8-P1P-1P48"/>
+                        <Triangle vertex1="CASE8-P1P-1P39" vertex2="CASE8-P1P-1P40" vertex3="CASE8-P1P-1P48"/>
+                        <Triangle vertex1="CASE8-P1P-1P48" vertex2="CASE8-P1P-1P40" vertex3="CASE8-P1P-1P49"/>
+                        <Triangle vertex1="CASE8-P1P-1P40" vertex2="CASE8-P1P-1P41" vertex3="CASE8-P1P-1P49"/>
+                        <Triangle vertex1="CASE8-P1P-1P49" vertex2="CASE8-P1P-1P41" vertex3="CASE8-P1P-1P50"/>
+                        <Triangle vertex1="CASE8-P1P-1P41" vertex2="CASE8-P1P-1P42" vertex3="CASE8-P1P-1P50"/>
+                        <Triangle vertex1="CASE8-P1P-1P50" vertex2="CASE8-P1P-1P42" vertex3="CASE8-P1P-1P51"/>
+                        <Triangle vertex1="CASE8-P1P-1P42" vertex2="CASE8-P1P-1P43" vertex3="CASE8-P1P-1P51"/>
+                        <Triangle vertex1="CASE8-P1P-1P51" vertex2="CASE8-P1P-1P43" vertex3="CASE8-P1P-1P52"/>
+                        <Triangle vertex1="CASE8-P1P-1P43" vertex2="CASE8-P1P-1P44" vertex3="CASE8-P1P-1P52"/>
+                        <Triangle vertex1="CASE8-P1P-1P52" vertex2="CASE8-P1P-1P44" vertex3="CASE8-P1P-1P53"/>
+                        <Triangle vertex1="CASE8-P1P-1P45" vertex2="CASE8-P1P-1P46" vertex3="CASE8-P1P-1P54"/>
+                        <Triangle vertex1="CASE8-P1P-1P54" vertex2="CASE8-P1P-1P46" vertex3="CASE8-P1P-1P55"/>
+                        <Triangle vertex1="CASE8-P1P-1P46" vertex2="CASE8-P1P-1P47" vertex3="CASE8-P1P-1P55"/>
+                        <Triangle vertex1="CASE8-P1P-1P55" vertex2="CASE8-P1P-1P47" vertex3="CASE8-P1P-1P56"/>
+                        <Triangle vertex1="CASE8-P1P-1P47" vertex2="CASE8-P1P-1P48" vertex3="CASE8-P1P-1P56"/>
+                        <Triangle vertex1="CASE8-P1P-1P56" vertex2="CASE8-P1P-1P48" vertex3="CASE8-P1P-1P57"/>
+                        <Triangle vertex1="CASE8-P1P-1P48" vertex2="CASE8-P1P-1P49" vertex3="CASE8-P1P-1P57"/>
+                        <Triangle vertex1="CASE8-P1P-1P57" vertex2="CASE8-P1P-1P49" vertex3="CASE8-P1P-1P58"/>
+                        <Triangle vertex1="CASE8-P1P-1P49" vertex2="CASE8-P1P-1P50" vertex3="CASE8-P1P-1P58"/>
+                        <Triangle vertex1="CASE8-P1P-1P58" vertex2="CASE8-P1P-1P50" vertex3="CASE8-P1P-1P59"/>
+                        <Triangle vertex1="CASE8-P1P-1P50" vertex2="CASE8-P1P-1P51" vertex3="CASE8-P1P-1P59"/>
+                        <Triangle vertex1="CASE8-P1P-1P59" vertex2="CASE8-P1P-1P51" vertex3="CASE8-P1P-1P60"/>
+                        <Triangle vertex1="CASE8-P1P-1P51" vertex2="CASE8-P1P-1P52" vertex3="CASE8-P1P-1P60"/>
+                        <Triangle vertex1="CASE8-P1P-1P60" vertex2="CASE8-P1P-1P52" vertex3="CASE8-P1P-1P61"/>
+                        <Triangle vertex1="CASE8-P1P-1P52" vertex2="CASE8-P1P-1P53" vertex3="CASE8-P1P-1P61"/>
+                        <Triangle vertex1="CASE8-P1P-1P61" vertex2="CASE8-P1P-1P53" vertex3="CASE8-P1P-1P62"/>
+                        <Triangle vertex1="CASE8-P1P-1P54" vertex2="CASE8-P1P-1P55" vertex3="CASE8-P1P-1P63"/>
+                        <Triangle vertex1="CASE8-P1P-1P63" vertex2="CASE8-P1P-1P55" vertex3="CASE8-P1P-1P64"/>
+                        <Triangle vertex1="CASE8-P1P-1P55" vertex2="CASE8-P1P-1P56" vertex3="CASE8-P1P-1P64"/>
+                        <Triangle vertex1="CASE8-P1P-1P64" vertex2="CASE8-P1P-1P56" vertex3="CASE8-P1P-1P65"/>
+                        <Triangle vertex1="CASE8-P1P-1P56" vertex2="CASE8-P1P-1P57" vertex3="CASE8-P1P-1P65"/>
+                        <Triangle vertex1="CASE8-P1P-1P65" vertex2="CASE8-P1P-1P57" vertex3="CASE8-P1P-1P66"/>
+                        <Triangle vertex1="CASE8-P1P-1P57" vertex2="CASE8-P1P-1P58" vertex3="CASE8-P1P-1P66"/>
+                        <Triangle vertex1="CASE8-P1P-1P66" vertex2="CASE8-P1P-1P58" vertex3="CASE8-P1P-1P67"/>
+                        <Triangle vertex1="CASE8-P1P-1P58" vertex2="CASE8-P1P-1P59" vertex3="CASE8-P1P-1P67"/>
+                        <Triangle vertex1="CASE8-P1P-1P67" vertex2="CASE8-P1P-1P59" vertex3="CASE8-P1P-1P68"/>
+                        <Triangle vertex1="CASE8-P1P-1P59" vertex2="CASE8-P1P-1P60" vertex3="CASE8-P1P-1P68"/>
+                        <Triangle vertex1="CASE8-P1P-1P68" vertex2="CASE8-P1P-1P60" vertex3="CASE8-P1P-1P69"/>
+                        <Triangle vertex1="CASE8-P1P-1P60" vertex2="CASE8-P1P-1P61" vertex3="CASE8-P1P-1P69"/>
+                        <Triangle vertex1="CASE8-P1P-1P69" vertex2="CASE8-P1P-1P61" vertex3="CASE8-P1P-1P70"/>
+                        <Triangle vertex1="CASE8-P1P-1P61" vertex2="CASE8-P1P-1P62" vertex3="CASE8-P1P-1P70"/>
+                        <Triangle vertex1="CASE8-P1P-1P70" vertex2="CASE8-P1P-1P62" vertex3="CASE8-P1P-1P71"/>
+                        <Triangle vertex1="CASE8-P1P-1P63" vertex2="CASE8-P1P-1P64" vertex3="CASE8-P1P-1P72"/>
+                        <Triangle vertex1="CASE8-P1P-1P72" vertex2="CASE8-P1P-1P64" vertex3="CASE8-P1P-1P73"/>
+                        <Triangle vertex1="CASE8-P1P-1P64" vertex2="CASE8-P1P-1P65" vertex3="CASE8-P1P-1P73"/>
+                        <Triangle vertex1="CASE8-P1P-1P73" vertex2="CASE8-P1P-1P65" vertex3="CASE8-P1P-1P74"/>
+                        <Triangle vertex1="CASE8-P1P-1P65" vertex2="CASE8-P1P-1P66" vertex3="CASE8-P1P-1P74"/>
+                        <Triangle vertex1="CASE8-P1P-1P74" vertex2="CASE8-P1P-1P66" vertex3="CASE8-P1P-1P75"/>
+                        <Triangle vertex1="CASE8-P1P-1P66" vertex2="CASE8-P1P-1P67" vertex3="CASE8-P1P-1P75"/>
+                        <Triangle vertex1="CASE8-P1P-1P75" vertex2="CASE8-P1P-1P67" vertex3="CASE8-P1P-1P76"/>
+                        <Triangle vertex1="CASE8-P1P-1P67" vertex2="CASE8-P1P-1P68" vertex3="CASE8-P1P-1P76"/>
+                        <Triangle vertex1="CASE8-P1P-1P76" vertex2="CASE8-P1P-1P68" vertex3="CASE8-P1P-1P77"/>
+                        <Triangle vertex1="CASE8-P1P-1P68" vertex2="CASE8-P1P-1P69" vertex3="CASE8-P1P-1P77"/>
+                        <Triangle vertex1="CASE8-P1P-1P77" vertex2="CASE8-P1P-1P69" vertex3="CASE8-P1P-1P78"/>
+                        <Triangle vertex1="CASE8-P1P-1P69" vertex2="CASE8-P1P-1P70" vertex3="CASE8-P1P-1P78"/>
+                        <Triangle vertex1="CASE8-P1P-1P78" vertex2="CASE8-P1P-1P70" vertex3="CASE8-P1P-1P79"/>
+                        <Triangle vertex1="CASE8-P1P-1P70" vertex2="CASE8-P1P-1P71" vertex3="CASE8-P1P-1P79"/>
+                        <Triangle vertex1="CASE8-P1P-1P79" vertex2="CASE8-P1P-1P71" vertex3="CASE8-P1P-1P80"/>
+                    </Triangles>
+                </Mesh>
+            </Plate>
+        </Plates>
+        <StructureMembers>
+            <Member type="DECK" name="CASE8-P1P" id="CASE8-P1P"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840.0" tensileStrength="360.0" yieldStrength="220.0" elasticModulus="2.06E11"/>
+        </Materials>
+    </HullStructure>
+    <Extensions>
+        <HullSurveyExtension/>
+    </Extensions>
+    <Documents/>
+</HullCondition>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HullCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="2.0" xsi:schemaLocation="">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate strake="" number="" thickness="0.01" maxDiminution="0.0" name="CASE2-P1-1P" materialId="Default" side="P" memberId="CASE2-P1" id="CASE2-P1-1P">
+                <OuterContour>
+                    <Vertex x="0.0" y="0.0" z="0.0"/>
+                    <Vertex x="0.0" y="1.9596" z="0.0"/>
+                    <Vertex x="0.0" y="3.9191" z="1.0E-4"/>
+                    <Vertex x="0.0" y="4.4645" z="0.2521"/>
+                    <Vertex x="0.0" y="4.9938" z="0.5364"/>
+                    <Vertex x="0.0" y="5.5051" z="0.8519"/>
+                    <Vertex x="0.0" y="5.9965" z="1.1975"/>
+                    <Vertex x="0.0" y="6.4663" z="1.5721"/>
+                    <Vertex x="0.0" y="6.9127" z="1.9741"/>
+                    <Vertex x="0.0" y="7.3342" z="2.4023"/>
+                    <Vertex x="0.0" y="7.7291" z="2.855"/>
+                    <Vertex x="0.0" y="8.0962" z="3.3306"/>
+                    <Vertex x="0.0" y="8.434" z="3.8274"/>
+                    <Vertex x="0.0" y="8.8059" z="4.4616"/>
+                    <Vertex x="0.0" y="9.1303" z="5.1214"/>
+                    <Vertex x="0.0" y="9.4053" z="5.8033"/>
+                    <Vertex x="0.0" y="9.6295" z="6.5034"/>
+                    <Vertex x="0.0" y="9.8089" z="7.2548"/>
+                    <Vertex x="0.0" y="9.9298" z="8.0179"/>
+                    <Vertex x="0.0" y="9.9681" z="8.4026"/>
+                    <Vertex x="0.0" y="9.9915" z="8.7885"/>
+                    <Vertex x="0.0" y="9.9967" z="8.9427"/>
+                    <Vertex x="0.0" y="9.9995" z="9.097"/>
+                    <Vertex x="0.0" y="9.9999" z="9.1485"/>
+                    <Vertex x="0.0" y="10.0" z="9.2"/>
+                    <Vertex x="0.0" y="10.0" z="10.6"/>
+                    <Vertex x="0.0" y="10.0" z="12.0"/>
+                    <Vertex x="0.0" y="0.0" z="12.0"/>
+                </OuterContour>
+            </Plate>
+        </Plates>
+        <StructureMembers>
+            <Member type="DECK" name="CASE2-P1" id="CASE2-P1"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840.0" tensileStrength="360.0" yieldStrength="220.0" elasticModulus="2.06E11"/>
+        </Materials>
+    </HullStructure>
+    <Extensions>
+        <HullSurveyExtension/>
+    </Extensions>
+    <Documents/>
+</HullCondition>

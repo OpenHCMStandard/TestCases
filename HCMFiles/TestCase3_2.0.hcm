@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HullCondition schemaVersion="2.0">
+     <ShipData>
+          <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+     </ShipData>
+     <HullStructure>
+          <Plates>
+               <Plate maxDiminution="0" thickness="0.01" side="P" number="" strake="" memberId="CASE3-P1" materialId="Default" id="CASE3-P1-1P" name="CASE3-P1-1P">
+                    <OuterContour>
+                         <Vertex x="0" y="10" z="0"/>
+                         <Vertex x="0" y="0" z="0"/>
+                         <Vertex x="9" y="0" z="0"/>
+                         <Vertex x="9" y="10" z="0"/>
+                    </OuterContour>
+               </Plate>
+          </Plates>
+          <Stiffeners>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S1P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S1P" type="FB" height="0.200" thickness="0.01">
+                    <TraceLine>
+                         <Vertex x="1" y="0" z="0"/>
+                         <Vertex x="1" y="10" z="0"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S2P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S2P" type="HP" height="0.200" thickness="0.01">
+                    <TraceLine>
+                         <Vertex x="2" y="0" z="0"/>
+                         <Vertex x="2" y="10" z="0"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S3P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S3P" type="L" height="0.200" thickness="0.01">
+                    <TraceLine>
+                         <Vertex x="3" y="0" z="0"/>
+                         <Vertex x="3" y="10" z="0"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+                    <Flange position="upper" thickness="0.012" breadth="0.1"/>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S4P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S4P" type="T" height="0.200" thickness="0.01">
+                    <TraceLine>
+                         <Vertex x="4" y="0" z="0"/>
+                         <Vertex x="4" y="10" z="0"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+                    <Flange position="upper" thickness="0.012" breadth="0.1"/>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S5P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S5P" type="I" height="0.190" thickness="0.0065">
+                    <TraceLine>
+                         <Vertex x="5" y="0" z="-0.1"/>
+                         <Vertex x="5" y="10" z="-0.1"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+                    <Flange position="upper" thickness="0.01" breadth="0.2"/>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S6P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S6P" radius="0.1" type="O" height="0.200" thickness="0">
+                    <TraceLine>
+                         <Vertex x="6" y="0" z="-0.1"/>
+                         <Vertex x="6" y="10" z="-0.1"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+                    <Flange position="upper" breadth="0.2"/>
+               </Stiffener>
+               <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE3-P1/S8P" memberId="CASE3-P1" materialId="Default" id="CASE3-P1/S8P"  type="RHS" height="0.200" thickness="0">
+                    <TraceLine>
+                         <Vertex x="8" y="0" z="-0.1"/>
+                         <Vertex x="8" y="10" z="-0.1"/>
+                    </TraceLine>
+                    <Orientations>
+                         <Direction i="0" j="0" k="-1"/>
+                         <Direction i="0" j="0" k="-1"/>
+                    </Orientations>
+                    <Flange position="upper" breadth="0.1"/>
+               </Stiffener>
+          </Stiffeners>
+          <StructureMembers>
+               <Member id="CASE3-P1" name="CASE3-P1" type="DECK"/>
+          </StructureMembers>
+          <Materials>
+               <Material id="Default" name="Default" poissonRatio="0.3" density="7840" tensileStrength="360" yieldStrength="220" elasticModulus="206000000000"/>
+          </Materials>
+     </HullStructure>
+</HullCondition>

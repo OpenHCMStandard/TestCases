@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HullCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="2.0" xsi:schemaLocation="">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate strake="" number="" thickness="0.01" maxDiminution="0.0" name="CASE6-P1-1P" materialId="Default" side="P" memberId="CASE6-P1" id="CASE6-P1-1P">
+                <OuterContour>
+                    <Vertex x="0.0" y="2.5" z="0.0"/>
+                    <Vertex x="0.0" y="0.0" z="0.0"/>
+                    <Vertex x="2.5" y="0.0" z="0.0"/>
+                    <Vertex x="2.5" y="1.25" z="0.0"/>
+                    <Vertex x="2.481" y="1.4671" z="0.0"/>
+                    <Vertex x="2.4246" y="1.6775" z="0.0"/>
+                    <Vertex x="2.3325" y="1.875" z="0.0"/>
+                    <Vertex x="2.2076" y="2.0535" z="0.0"/>
+                    <Vertex x="2.0535" y="2.2076" z="0.0"/>
+                    <Vertex x="1.875" y="2.3325" z="0.0"/>
+                    <Vertex x="1.6775" y="2.4246" z="0.0"/>
+                    <Vertex x="1.4671" y="2.481" z="0.0"/>
+                    <Vertex x="1.25" y="2.5" z="0.0"/>
+                </OuterContour>
+            </Plate>
+        </Plates>
+        <Stiffeners>
+            <Stiffener height="0.2" type="FB" orientation="right" thickness="0.01" maxDiminution="0.0" offset="-0.1" name="CASE6-P1/F1P" materialId="Default" side="P" memberId="CASE6-P1" id="CASE6-P1/F1P">
+                <TraceLine>
+                    <Vertex x="2.5" y="0.0" z="0.0"/>
+                    <Vertex x="2.5" y="1.25" z="0.0"/>
+                    <Vertex x="2.481" y="1.4671" z="0.0"/>
+                    <Vertex x="2.4246" y="1.6775" z="0.0"/>
+                    <Vertex x="2.3325" y="1.875" z="0.0"/>
+                    <Vertex x="2.2076" y="2.0535" z="0.0"/>
+                    <Vertex x="2.0535" y="2.2076" z="0.0"/>
+                    <Vertex x="1.875" y="2.3325" z="0.0"/>
+                    <Vertex x="1.6775" y="2.4246" z="0.0"/>
+                    <Vertex x="1.4671" y="2.481" z="0.0"/>
+                    <Vertex x="1.25" y="2.5" z="0.0"/>
+                    <Vertex x="0.0" y="2.5" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                </Orientations>
+            </Stiffener>
+        </Stiffeners>
+        <StructureMembers>
+            <Member type="DECK" name="CASE6-P1" id="CASE6-P1"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840.0" tensileStrength="360.0" yieldStrength="220.0" elasticModulus="2.06E11"/>
+        </Materials>
+    </HullStructure>
+    <Extensions>
+        <HullSurveyExtension/>
+    </Extensions>
+    <Documents/>
+</HullCondition>

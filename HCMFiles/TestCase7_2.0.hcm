@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<HullCondition xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" schemaVersion="2.0" xsi:schemaLocation="">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate strake="" number="" thickness="0.01" maxDiminution="0.0" name="CASE7-P1-1P" materialId="Default" side="P" memberId="CASE7-P1" id="CASE7-P1-1P">
+                <OuterContour>
+                    <Vertex x="0.0" y="2.5" z="0.0"/>
+                    <Vertex x="0.0" y="0.0" z="0.0"/>
+                    <Vertex x="2.5" y="0.0" z="0.0"/>
+                    <Vertex x="2.5" y="2.5" z="0.0"/>
+                </OuterContour>
+                <InnerContour>
+                    <Vertex x="1.0" y="1.75" z="0.0"/>
+                    <Vertex x="1.5" y="1.75" z="0.0"/>
+                    <Vertex x="1.5868" y="1.7424" z="0.0"/>
+                    <Vertex x="1.671" y="1.7198" z="0.0"/>
+                    <Vertex x="1.75" y="1.683" z="0.0"/>
+                    <Vertex x="1.8214" y="1.633" z="0.0"/>
+                    <Vertex x="1.883" y="1.5714" z="0.0"/>
+                    <Vertex x="1.933" y="1.5" z="0.0"/>
+                    <Vertex x="1.9698" y="1.421" z="0.0"/>
+                    <Vertex x="1.9924" y="1.3368" z="0.0"/>
+                    <Vertex x="2.0" y="1.25" z="0.0"/>
+                    <Vertex x="1.9924" y="1.1632" z="0.0"/>
+                    <Vertex x="1.9698" y="1.079" z="0.0"/>
+                    <Vertex x="1.933" y="1.0" z="0.0"/>
+                    <Vertex x="1.883" y="0.9286" z="0.0"/>
+                    <Vertex x="1.8214" y="0.867" z="0.0"/>
+                    <Vertex x="1.75" y="0.817" z="0.0"/>
+                    <Vertex x="1.671" y="0.7802" z="0.0"/>
+                    <Vertex x="1.5868" y="0.7576" z="0.0"/>
+                    <Vertex x="1.5" y="0.75" z="0.0"/>
+                    <Vertex x="1.0" y="0.75" z="0.0"/>
+                    <Vertex x="0.9132" y="0.7576" z="0.0"/>
+                    <Vertex x="0.829" y="0.7802" z="0.0"/>
+                    <Vertex x="0.75" y="0.817" z="0.0"/>
+                    <Vertex x="0.6786" y="0.867" z="0.0"/>
+                    <Vertex x="0.617" y="0.9286" z="0.0"/>
+                    <Vertex x="0.567" y="1.0" z="0.0"/>
+                    <Vertex x="0.5302" y="1.079" z="0.0"/>
+                    <Vertex x="0.5076" y="1.1632" z="0.0"/>
+                    <Vertex x="0.5" y="1.25" z="0.0"/>
+                    <Vertex x="0.5076" y="1.3368" z="0.0"/>
+                    <Vertex x="0.5302" y="1.421" z="0.0"/>
+                    <Vertex x="0.567" y="1.5" z="0.0"/>
+                    <Vertex x="0.617" y="1.5714" z="0.0"/>
+                    <Vertex x="0.6786" y="1.633" z="0.0"/>
+                    <Vertex x="0.75" y="1.683" z="0.0"/>
+                    <Vertex x="0.829" y="1.7198" z="0.0"/>
+                    <Vertex x="0.9132" y="1.7424" z="0.0"/>
+                </InnerContour>
+            </Plate>
+        </Plates>
+        <Stiffeners>
+            <Stiffener height="0.2" type="FB" orientation="right" thickness="0.01" maxDiminution="0.0" offset="-0.1" name="CASE7-P1/F1P" materialId="Default" side="P" memberId="CASE7-P1" id="CASE7-P1/F1P">
+                <TraceLine>
+                    <Vertex x="1.0" y="1.75" z="0.0"/>
+                    <Vertex x="1.5" y="1.75" z="0.0"/>
+                    <Vertex x="1.5868" y="1.7424" z="0.0"/>
+                    <Vertex x="1.671" y="1.7198" z="0.0"/>
+                    <Vertex x="1.75" y="1.683" z="0.0"/>
+                    <Vertex x="1.8214" y="1.633" z="0.0"/>
+                    <Vertex x="1.883" y="1.5714" z="0.0"/>
+                    <Vertex x="1.933" y="1.5" z="0.0"/>
+                    <Vertex x="1.9698" y="1.421" z="0.0"/>
+                    <Vertex x="1.9924" y="1.3368" z="0.0"/>
+                    <Vertex x="2.0" y="1.25" z="0.0"/>
+                    <Vertex x="1.9924" y="1.1632" z="0.0"/>
+                    <Vertex x="1.9698" y="1.079" z="0.0"/>
+                    <Vertex x="1.933" y="1.0" z="0.0"/>
+                    <Vertex x="1.883" y="0.9286" z="0.0"/>
+                    <Vertex x="1.8214" y="0.867" z="0.0"/>
+                    <Vertex x="1.75" y="0.817" z="0.0"/>
+                    <Vertex x="1.671" y="0.7802" z="0.0"/>
+                    <Vertex x="1.5868" y="0.7576" z="0.0"/>
+                    <Vertex x="1.5" y="0.75" z="0.0"/>
+                    <Vertex x="1.0" y="0.75" z="0.0"/>
+                    <Vertex x="0.9132" y="0.7576" z="0.0"/>
+                    <Vertex x="0.829" y="0.7802" z="0.0"/>
+                    <Vertex x="0.75" y="0.817" z="0.0"/>
+                    <Vertex x="0.6786" y="0.867" z="0.0"/>
+                    <Vertex x="0.617" y="0.9286" z="0.0"/>
+                    <Vertex x="0.567" y="1.0" z="0.0"/>
+                    <Vertex x="0.5302" y="1.079" z="0.0"/>
+                    <Vertex x="0.5076" y="1.1632" z="0.0"/>
+                    <Vertex x="0.5" y="1.25" z="0.0"/>
+                    <Vertex x="0.5076" y="1.3368" z="0.0"/>
+                    <Vertex x="0.5302" y="1.421" z="0.0"/>
+                    <Vertex x="0.567" y="1.5" z="0.0"/>
+                    <Vertex x="0.617" y="1.5714" z="0.0"/>
+                    <Vertex x="0.6786" y="1.633" z="0.0"/>
+                    <Vertex x="0.75" y="1.683" z="0.0"/>
+                    <Vertex x="0.829" y="1.7198" z="0.0"/>
+                    <Vertex x="0.9132" y="1.7424" z="0.0"/>
+                    <Vertex x="1.0" y="1.75" z="0.0"/>
+                </TraceLine>
+                <Orientations>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                    <Direction i="0.0" j="0.0" k="-1.0"/>
+                </Orientations>
+            </Stiffener>
+        </Stiffeners>
+        <StructureMembers>
+            <Member type="DECK" name="CASE7-P1" id="CASE7-P1"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840.0" tensileStrength="360.0" yieldStrength="220.0" elasticModulus="2.06E11"/>
+        </Materials>
+    </HullStructure>
+    <Extensions>
+        <HullSurveyExtension/>
+    </Extensions>
+    <Documents/>
+</HullCondition>

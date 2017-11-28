@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><HullCondition schemaVersion="2.0">
+    <ShipData>
+        <Designation shipName="Casel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate maxDiminution="0" thickness="0.01" side="P" number="" strake="" memberId="CASE1-P1" materialId="Default" id="CASE1-P1-1P" name="CASE1-P1-1P">
+                <OuterContour>
+          <Vertex x="0" y="10" z="0"/>
+          <Vertex x="0" y="0" z="0"/>
+          <Vertex x="10" y="0" z="0"/>
+          <Vertex x="10" y="10" z="0"/>
+        </OuterContour>
+            </Plate>
+        </Plates>
+        <StructureMembers>
+            <Member id="CASE1-P1" name="CASE1-P1" type="DECK"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840" tensileStrength="360" yieldStrength="220" elasticModulus="206000000000"/>
+        </Materials>
+    </HullStructure>
+</HullCondition>

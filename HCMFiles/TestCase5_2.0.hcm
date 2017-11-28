@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?><HullCondition schemaVersion="2.0">
+    <ShipData>
+        <Designation shipName="Unnamed Vessel" numberIMO="9999999"/>
+    </ShipData>
+    <HullStructure>
+        <Plates>
+            <Plate maxDiminution="0" thickness="0.01" side="P" number="" strake="" memberId="CASE5-P1" materialId="Default" id="CASE5-P1-1P" name="CASE5-P1-1P">
+                <OuterContour>
+          <Vertex x="0" y="2.5" z="0"/>
+          <Vertex x="0" y="0" z="0"/>
+          <Vertex x="2.5" y="0" z="0"/>
+          <Vertex x="2.5" y="2.5" z="0"/>
+        </OuterContour>
+            </Plate>
+        </Plates>
+        <Stiffeners>
+            <Stiffener maxDiminution="0" side="P" orientation="right" name="CASE5-P1/F1P" memberId="CASE5-P1" materialId="Default" id="CASE5-P1/F1P" type="FB" offset="-0.1" height="0.200" thickness="0.01">
+                <TraceLine>
+          <Vertex x="2.5" y="2.5" z="0"/>
+          <Vertex x="2.5" y="0" z="0"/>
+        </TraceLine>
+                <Orientations>
+                    <Direction i="0" j="0" k="1"/>
+                    <Direction i="0" j="0" k="1"/>
+                </Orientations>
+            </Stiffener>
+        </Stiffeners>
+        <StructureMembers>
+            <Member id="CASE5-P1" name="CASE5-P1" type="DECK"/>
+        </StructureMembers>
+        <Materials>
+            <Material id="Default" name="Default" poissonRatio="0.3" density="7840" tensileStrength="360" yieldStrength="220" elasticModulus="206000000000"/>
+        </Materials>
+    </HullStructure>
+</HullCondition>
