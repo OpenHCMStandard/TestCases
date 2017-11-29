@@ -4,7 +4,7 @@ The set of test cases are here to provide background reference when implementing
 
 The test cases include:
 -  **[Flat Plate](HCMFiles/TestCase1_2.0.hcm)** 
-![flat plate img](img/TestCase1.svg)
+![flat plate img](img/TestCase1.1.svg)
 -  **[Flat Plate with rounded corner](HCMFiles/TestCase2_2.0.hcm)**
 ![flat plate with rounded corner img](img/TestCase2.svg)
 -  **[Plate and 8 Stiffener profiles](HCMFiles/TestCase3_2.0.hcm)**
